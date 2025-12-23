@@ -1,16 +1,25 @@
-## Hi there 👋
+## Michele Noronha
 
-<!--
-**michelenoronha/michelenoronha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SAP Project Manager | SAP Activate Certified | Program & Operations Management**  
+**SAP S/4HANA Cloud | SAP Cloud ALM | SAP Analytics Cloud | Global & Remote**
 
-Here are some ideas to get you started:
+I’m a bilingual (EN/PT) SAP Project Manager with a strong background in program and operations leadership and delivery governance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub contains technical and quality engineering projects developed earlier in my career. This background strengthens my ability to lead SAP cloud programs with realistic planning, strong governance, and effective collaboration across technical and functional teams.
+
+### How this technical background supports SAP delivery
+- Improved delivery predictability through risk-aware planning
+- Strong communication with technical, integration, and functional teams
+- Understanding of APIs, testing, and CI/CD concepts to anticipate delivery issues
+- Structured approach to quality, governance, and stakeholder management
+
+### Current focus
+- SAP Project Management (SAP Activate methodology)
+- SAP S/4HANA Cloud Public Edition
+- SAP Cloud ALM (implementation monitoring & delivery governance)
+- SAP Analytics Cloud (analytics and data connection concepts)
+- Global & Remote delivery
+
+📫 **Contact**
+- Email: noronhadesousa80@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/michelenoronha
