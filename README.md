@@ -5,7 +5,7 @@
 
 I’m a bilingual (EN/PT) SAP Project Manager with a strong background in program and operations leadership and delivery governance.
 
-This GitHub contains technical and quality engineering projects developed earlier in my career. This background strengthens my ability to lead SAP cloud programs with realistic planning, strong governance, and effective collaboration across technical and functional teams.
+This GitHub showcases selected technical and quality engineering projects that complement my current role in SAP program and delivery leadership, strengthening my ability to lead SAP cloud programs with realistic planning, strong governance, and effective collaboration across technical and functional teams.
 
 ### How this technical background supports SAP delivery
 - Improved delivery predictability through risk-aware planning
